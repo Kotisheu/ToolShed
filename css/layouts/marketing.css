@@ -133,6 +133,7 @@ a.pure-button-primary {
 
 .splash-container {
     background-image: url("http://imagizer.imageshack.us/v2/1600x1200q90/911/qhHhjq.png");
+    background-size: cover;
     /*background: #1f8dd6;*/
     z-index: 1;
     overflow: hidden;
